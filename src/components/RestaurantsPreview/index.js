@@ -1,0 +1,1 @@
+export { RestaurantsPreview } from './RestaurantsPreview';
